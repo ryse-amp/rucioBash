@@ -1,0 +1,27 @@
++-------------------------------------------------------------+--------------------------------------+-------------+------------+----------+
+| SCOPE:NAME                                                  | GUID                                 | ADLER32     | FILESIZE   | EVENTS   |
+|-------------------------------------------------------------+--------------------------------------+-------------+------------+----------|
+| group.phys-hdbs:group.phys-hdbs.30796519._000023.CxAOD.root | 2B099105-0457-40F7-B062-5317C53F82F3 | ad:9d5ebf4a | 18.434 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000019.CxAOD.root | 373BBFDA-2A08-4239-BAF8-6E12A6445452 | ad:32f90591 | 33.501 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000021.CxAOD.root | BAD8F82D-E790-4E2F-B536-D3C676AA258E | ad:bd19c343 | 28.067 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000024.CxAOD.root | 3E86A281-AF32-4C32-A0C9-C98AD19F9D40 | ad:30cbe4fc | 31.822 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000015.CxAOD.root | 70823DED-12AD-4A54-8D2C-A9736C359F1E | ad:241a7df9 | 22.049 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000016.CxAOD.root | 7B35CC2F-8236-419E-9BD9-574A62C0CAA3 | ad:3f64192b | 17.526 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000017.CxAOD.root | F03F26E6-3280-48A7-8DBE-540E663F0690 | ad:b2f02c90 | 21.038 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000018.CxAOD.root | 764F6C4B-A8F2-4A6F-BB3A-96A76FF0B94F | ad:0e376fb5 | 6.823 MB   |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000013.CxAOD.root | E9E21823-01C4-4D8D-B9C5-D1BE7ECB8964 | ad:b06279d4 | 39.052 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000014.CxAOD.root | 84CCC800-A4A0-4DD5-8A53-BA81DCB91CF0 | ad:05a9ffb2 | 22.002 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000008.CxAOD.root | 1A438362-9830-4176-8D1C-1A5BD4E6FABA | ad:c415e2e5 | 5.686 MB   |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000003.CxAOD.root | C74CB8D9-7F44-47EA-BACA-4CBBA94A6733 | ad:55905c1c | 18.937 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000004.CxAOD.root | 06B3005F-0416-45B1-912C-F499CB2FEBC1 | ad:9a108661 | 18.135 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000005.CxAOD.root | D3D7C65B-C8A2-47BA-A003-6E020524E984 | ad:1948657a | 17.973 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000006.CxAOD.root | B199647A-390F-4991-AB88-F671976C9AB2 | ad:8504bcec | 15.889 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000002.CxAOD.root | CD36923D-9CCC-4F32-86D6-DE8466E8924A | ad:87c4a0a2 | 1.263 MB   |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000009.CxAOD.root | 459D3A1F-09A8-4E89-A139-B466DDAD1CBA | ad:d1246089 | 28.896 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000010.CxAOD.root | 4C035B6E-C730-4A20-A8BB-3F1ED79DA0AE | ad:41e7600b | 29.427 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000012.CxAOD.root | 29EC8BB1-6317-4DD6-BD2D-C91A6C226522 | ad:228d5735 | 9.975 MB   |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000025.CxAOD.root | F7568D8A-A353-4A63-B10D-C472707C5EEB | ad:04847e5f | 29.162 MB  |          |
+| group.phys-hdbs:group.phys-hdbs.30796519._000001.CxAOD.root | A753B585-CFD4-4A72-9113-DCF97B380002 | ad:569ceb3f | 5.625 MB   |          |
++-------------------------------------------------------------+--------------------------------------+-------------+------------+----------+
+Total files : 21
+Total size : 421.281 MB
