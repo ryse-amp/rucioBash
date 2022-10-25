@@ -1,0 +1,4 @@
+group.phys-hdbs.30796850._000001.CxAOD.root
+group.phys-hdbs.30796850._000002.CxAOD.root
+group.phys-hdbs.30796850._000003.CxAOD.root
+group.phys-hdbs.30796850._000004.CxAOD.root

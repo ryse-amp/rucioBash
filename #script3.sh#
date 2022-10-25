@@ -1,4 +1,4 @@
-#!/bin/bash                                                                                                                                                                                                      
+65;6800;1c#!/bin/bash                                                                                                                                                                                                      
 
 rucio list-files group.phys-hdbs.mc16_13TeV.700347.Sh_2211_Wtaunu_H_maxHTpTV2_BFilter.HIGG4D2.17IsoCRBulb1_CxAOD.root | cut -b 19-61 | grep -v "SCOPE" | grep -i ".root" > list_of_sample_in_rucio.txt
 

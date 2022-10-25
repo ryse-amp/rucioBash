@@ -6,7 +6,6 @@ while read line; do
 
   echo $line
   my_array+= $line
-
+ 
 done < test_lista_rucio2.txt
-
 echo "{$my_array[*]}"
